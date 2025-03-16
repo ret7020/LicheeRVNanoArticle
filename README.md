@@ -1,4 +1,7 @@
-# s
+# LicheeRV Nano
+
+## [Original article from habr](https://habr.com/ru/articles/880230/)
+
 ![](https://habrastorage.org/r/w780q1/getpro/habr/upload_files/8c5/eb9/020/8c5eb9020756b4b998303dde23b823b2.jpg)
 
 В этой статье речь пойдет о разработке под отладочную плату **LicheeRV Nano** - компактное устройство размером с две пятирублевые монеты, но обладающее впечатляющими возможностями.
